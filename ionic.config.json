@@ -1,0 +1,8 @@
+{
+  "name": "text-flash",
+  "app_id": "700687f3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
